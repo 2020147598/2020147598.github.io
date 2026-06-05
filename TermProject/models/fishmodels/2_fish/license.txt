@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fish
+* source:	https://sketchfab.com/3d-models/fish-52093800205f440ca3b90389260dc031
+* author:	caick (https://sketchfab.com/caick)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fish" (https://sketchfab.com/3d-models/fish-52093800205f440ca3b90389260dc031) by caick (https://sketchfab.com/caick) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
